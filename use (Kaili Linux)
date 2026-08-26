@@ -1,0 +1,8 @@
+# create 
+nano godzilla_perfect.py
+
+# copy code
+(Readme.md)
+
+# run
+python3 godzilla_perfect.py https:............... --mode deep -v
